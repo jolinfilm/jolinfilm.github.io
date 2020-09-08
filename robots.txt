@@ -1,0 +1,6 @@
+# Robots.txt file from http://www.jolinfilm.com
+
+Sitemap: http://www.jolinfilm.com/sitemap.xml
+
+User-agent: *
+Disallow:
